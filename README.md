@@ -1,99 +1,65 @@
-# Título do projeto
+# Cafeteria Seattle 
 
-Um parágrafo da descrição do projeto vai aqui
+Para fins de estudo, foi feita uma landing page com o tema de Cafeteria, cuja mesma foi apelidada com o nome fictício de Cafeteria Seattle.
 
-## 🚀 Começando
-
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **Implantação** para saber como implantar o projeto.
+## 🚀 Instruções 
+Para que você veja o código do projeto funcionando em sua máquina, serão disponibilizadas algumas instruções no tópico 🔧 Como rodar o projeto? 
 
 ### 📋 Pré-requisitos
+Para isso, você irá precisar basicamente ter um editor de código em sua máquina (Visual Studio Code, Sublime Text, etc), um navegador para acesso (Google Chrome, Opera, Mozilla Firefox) e, para versionar o código, ter o Git instalado. Pode ser utilizado o prompt de comando de seu computador, da mesma forma. 
+Links úteis: 
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+VS Code: https://code.visualstudio.com/
+Git: https://git-scm.com/
+Sublime Text: https://www.sublimetext.com/
 
-```
-Dar exemplos
-```
+### 🔧 Como rodar o projeto? 
+Na página inicial do projeto, é necessário clicar no botão verde (CODE) e, copiar a URL disponibilizada pelo GitHub. No exemplo será utilizada a URL com HTTPS, que garante a segurança da operação. 
+![image](https://user-images.githubusercontent.com/45500959/111051207-13c66d80-8430-11eb-8e47-92c912e92fdf.png)
 
-### 🔧 Instalação
+Por conseguinte, após copiar a URL, será criada uma nova pasta em qualquer local do seu computador (pode ser na área de trabalho) com qualquer nome:
+![image](https://user-images.githubusercontent.com/45500959/111051233-5720dc00-8430-11eb-8c68-999369682072.png)
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
+Depois disso, você irá clicar com o botão direito em sua pasta recém-criada, caso você tenha o Git e clicar em Git Bash Here: 
+![image](https://user-images.githubusercontent.com/45500959/111051375-4d4ba880-8431-11eb-9eea-39aa5fb1783e.png)
 
-Diga como essa etapa será:
+(Caso você não possua, basta digitar prompt de comando e abri-lo)
+![image](https://user-images.githubusercontent.com/45500959/111051405-84ba5500-8431-11eb-9164-789faddb950f.png)
 
-```
-Dar exemplos
-```
+Ao abrir o terminal, é necessário digitar a URL recém-copiada do GitHub, acompanhada do comando git clone, conforme exemplo: 
+![image](https://user-images.githubusercontent.com/45500959/111051448-d1059500-8431-11eb-9753-9e80cdb3e2f7.png)
 
-E repita:
+Após isso, teclar ENTER.
 
-```
-Até finalizar
-```
+Ao exibir o status abaixo, indica que o processo foi feito corretamente: 
+![image](https://user-images.githubusercontent.com/45500959/111051487-204bc580-8432-11eb-97e5-161791eef319.png)
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+Os arquivos estarão na pasta recém criada: 
+![image](https://user-images.githubusercontent.com/45500959/111051510-50936400-8432-11eb-90ab-30e359440c35.png)
 
-## ⚙️ Executando os testes
+E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o site da Cafeteria. 
+![image](https://user-images.githubusercontent.com/45500959/111051521-6a34ab80-8432-11eb-9996-a1cfb2ea4ad7.png)
 
-Explicar como executar os testes automatizados para este sistema.
 
-### 🔩 Analise os testes de ponta a ponta
+## 📦 Status do Site
 
-Explique que eles verificam esses testes e porquê.
+🚧  Finalizado 🚧
 
-```
-Dar exemplos
-```
 
-### ⌨️ E testes de estilo de codificação
+## 🛠️ Feito com
+* [Bootstrap](https://getbootstrap.com/) - Framework de estilos utilizado.
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem de marcação de texto utilizada.
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Folha de estilos utilizada.
+* jQuery (https://jquery.com/) - Utilizado para animações e eventos da página. 
 
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 📦 Desenvolvimento
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
-
-## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-## 📌 Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
 
 ## ✒️ Autores
+Site feito por mim - [Lucbm99](https://github.com/Lucbm99)
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢
-* Convide alguém da equipe para uma cerveja 🍺 
-* Obrigado publicamente 🤓.
-* etc.
+## 🎁 Agradecimentos
+* Site feito para estudos, que aprendi muito bem. Obrigado a todos e a Deus pela oportunidade!
 
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+⌨️ com ❤️ por [Lucas Baradel](https://github.com/Lucbm99) 😊
