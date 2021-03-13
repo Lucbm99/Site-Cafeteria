@@ -18,6 +18,7 @@ Na página inicial do projeto, é necessário clicar no botão verde (CODE) e, c
 ![image](https://user-images.githubusercontent.com/45500959/111051207-13c66d80-8430-11eb-8e47-92c912e92fdf.png)
 
 Por conseguinte, após copiar a URL, será criada uma nova pasta em qualquer local do seu computador (pode ser na área de trabalho) com qualquer nome:
+
 ![image](https://user-images.githubusercontent.com/45500959/111051233-5720dc00-8430-11eb-8c68-999369682072.png)
 
 Depois disso, você irá clicar com o botão direito em sua pasta recém-criada, caso você tenha o Git e clicar em Git Bash Here: 
@@ -50,7 +51,7 @@ E, ao clicar no arquivo index.html, o arquivo abrirá no seu navegador, com o si
 * [Bootstrap](https://getbootstrap.com/) - Framework de estilos utilizado.
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem de marcação de texto utilizada.
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Folha de estilos utilizada.
-* jQuery (https://jquery.com/) - Utilizado para animações e eventos da página. 
+* [jQuery] (https://jquery.com/) - Utilizado para animações e eventos da página. 
 
 
 ## ✒️ Autores
